@@ -5,4 +5,4 @@
 | Center Aligned |
 | :--------------: |
 | 表格測試 |
-# ![NSYU](school.jpg "國立中山大學")
+# ![NSYU](school.png "國立中山大學")
