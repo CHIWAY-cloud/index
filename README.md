@@ -1,4 +1,4 @@
-![Google](/images/google.png)
+![Google](google.png)
 
 ## 國立中山大學
 
@@ -38,3 +38,20 @@ __字體粗體__
 
 # [![呂讀台灣](https://img.youtube.com/vi/-RTnT-4ilfg/0.jpg)](https://www.youtube.com/watch?v=-RTnT-4ilfg"呂讀台灣")
 
+
+As Lian said:
+
+> We're living the future so
+> the present is our past.
+
+\*litral asterisks\*
+*literal asterisks*
+
+- [ ] @選項1 
+- [ ] 選項2 
+- [ ] 選項3
+
+'''javascript
+
+     var Früh = "foobar";
+'''
