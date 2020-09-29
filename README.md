@@ -55,3 +55,7 @@ As Lian said:
 
      var Früh = "foobar";
 '''
+
+github supports emoji!
+:+1: 
+:stuck_out_tongue_closed_eyes:
