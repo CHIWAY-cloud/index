@@ -47,7 +47,7 @@ As Lian said:
 \*litral asterisks\*
 *literal asterisks*
 
-- [ ] @選項1 
+- [ ] 選項1 
 - [ ] 選項2 
 - [ ] 選項3
 
