@@ -1,4 +1,4 @@
-![google](/images/Index_google.PNG)
+![Google](/images/Index_google.PNG)
 
 ## 國立中山大學
 
